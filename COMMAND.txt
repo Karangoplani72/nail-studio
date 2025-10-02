@@ -1,0 +1,4 @@
+npm install react-bootstrap bootstrap
+npm install react-router-dom
+npm install styled-components
+npm install sass

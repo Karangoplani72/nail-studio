@@ -1,0 +1,62 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Main Content Wrapper */
+.main-content {
+  flex: 1; /* Pushes the footer to the bottom */
+}
+
+/* Header & Logo */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Space between logo and nav */
+  padding: 15px 50px;
+  background-color: #ffd9df;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo Styling */
+.logo {
+  height: 100px; /* Adjust size as needed */
+  width: auto;
+}
+
+/* Navigation Menu */
+nav {
+  flex-grow: 1; /* Ensures nav takes up remaining space */
+  display: flex;
+  justify-content: center; /* Center align menu */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #5a1f1f;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+nav ul li a i {
+  margin-right: 8px;
+}
+
+nav ul li a:hover {
+  background-color: #ffb3c1;
+  color: white;
+}

@@ -1,0 +1,35 @@
+/* src/components/Footer.css */
+
+footer {
+    background-color: #ffd9df; /* Pink background */
+    color: #5a1f1f;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  /* To ensure footer stays at the bottom of the page even with small content */
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full height of the viewport */
+  }
+  
+  main {
+    flex: 1; /* Allows the content area to grow and push footer down */
+  }
+  p{
+    text-align: center !important;
+  }
