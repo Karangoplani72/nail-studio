@@ -17,7 +17,7 @@ function App() {
       <Header />
       <main className="container mt-4">
       <Routes>
-  <Route path="/" element={<Home />} />
+  <Route path="/nail-studio" element={<Home />} />
   <Route path="/services" element={<Services />} />
   <Route path="/about" element={<About />} />
   <Route path="/contact" element={<Contact />} />
