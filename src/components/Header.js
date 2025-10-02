@@ -1,8 +1,7 @@
 // src/components/Header.js
 
-import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../images/logo.png";
+import logo from "../logo.png";
 import "./Header.css"; // Ensure your CSS is properly styled
 
 const Header = () => {
