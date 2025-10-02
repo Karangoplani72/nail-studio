@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nail-studio/static/css/main.95a797ec.css",
-    "main.js": "/nail-studio/static/js/main.2156bf49.js",
+    "main.js": "/nail-studio/static/js/main.194cafdb.js",
     "static/js/453.fc7da359.chunk.js": "/nail-studio/static/js/453.fc7da359.chunk.js",
     "static/media/Angel Nails.jpg": "/nail-studio/static/media/Angel Nails.e17e3e80d10d30e4925c.jpg",
     "static/media/Simple Art.jpg": "/nail-studio/static/media/Simple Art.a61e9657234cde870013.jpg",
@@ -40,11 +40,11 @@
     "static/media/nail-art.jpg": "/nail-studio/static/media/nail-art.f5eea88e972d6c3d5a75.jpg",
     "index.html": "/nail-studio/index.html",
     "main.95a797ec.css.map": "/nail-studio/static/css/main.95a797ec.css.map",
-    "main.2156bf49.js.map": "/nail-studio/static/js/main.2156bf49.js.map",
+    "main.194cafdb.js.map": "/nail-studio/static/js/main.194cafdb.js.map",
     "453.fc7da359.chunk.js.map": "/nail-studio/static/js/453.fc7da359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95a797ec.css",
-    "static/js/main.2156bf49.js"
+    "static/js/main.194cafdb.js"
   ]
 }
